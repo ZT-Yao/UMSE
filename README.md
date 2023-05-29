@@ -1,5 +1,5 @@
 # UMSE
-This is the repository for the ACL 2023 findings paper:
+This is the repository for the ACL 2023 findings [paper](http://arxiv.org/abs/2305.16895):
 > UMSE: Unified Multi-scenario Summarization Evaluation
 
 ## Overview
